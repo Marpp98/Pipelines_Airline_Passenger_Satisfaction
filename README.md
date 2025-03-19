@@ -12,7 +12,7 @@ El dataset utilizado es **Airline Passenger Satisfaction**, permitiendo desarrol
 - Mar P.
 - Deiene A.
 - Antonio E.
-- Angela 
+- Angela R.
 - Marta T.
 
 ---
