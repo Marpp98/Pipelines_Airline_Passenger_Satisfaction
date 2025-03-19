@@ -8,12 +8,12 @@ El dataset utilizado es **Airline Passenger Satisfaction**, permitiendo desarrol
 ---
 
 ## **Equipo**
-- Mario
-- Mar
-- Deiene
-- Antonio
-- Angela
-- Marta
+- Mario G.
+- Mar P.
+- Deiene A.
+- Antonio E.
+- Angela 
+- Marta T.
 
 ---
 
